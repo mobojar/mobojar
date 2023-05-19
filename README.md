@@ -21,11 +21,11 @@
     A passionate Mobile Apps(iOS/Android/ReactNative) Development Expert. Also working in Unity 3D/2D/HyperCasual Games Development.
 </h3>
   
-- :telescope: I’m working as a Software Engineer and contributing to Mobile apps(iOS/Android/ReactNative) development and also Games Development.
+- :telescope: I’m working as a Software Engineer and contributing to Mobile apps(iOS/Android/ReactNative) development and also Unity 3D/2D/HyperCasual Games Development.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Unity ECS, Flutter, ChatGPT Prompts.
 
-- :zap: In my free time, I read tech articles and apply them in my day to day work life.
+- :zap: In my free time, I read tech articles and apply them in my day to day coding.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meetadnan/)
 
@@ -56,10 +56,9 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mobojar&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mobojar&theme=default#gh-light-mode-only)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobojar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mobojar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **mobojar/mobojar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
